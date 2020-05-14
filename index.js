@@ -5,4 +5,3 @@ function addingEventListener() {
     alert('i was clicked');
   })
 }
-
